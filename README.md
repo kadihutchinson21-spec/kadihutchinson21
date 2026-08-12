@@ -1,7 +1,7 @@
 # Hi, I'm Kadian Hutchinson 👋
 
 🎓 Master of Data Analytics Student at the University of Niagara Falls Canada  
-📍 Ontario, Canada  
+📍 Canada  
 💼 Seeking Data Analyst Opportunities
 
 ---
