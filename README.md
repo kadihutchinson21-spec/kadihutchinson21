@@ -2,59 +2,64 @@
 
 🎓 Master of Data Analytics Student at the University of Niagara Falls Canada  
 📍 Canada  
-💼 Seeking Data Analyst Opportunities
+💼 Aspiring Data Analyst
 
 ---
 
 ## About Me
 
-I am passionate about transforming data into meaningful insights that support business decision-making. My interests include data analytics, machine learning, business intelligence, and data visualization. Through academic projects and hands-on experience, I have developed skills in analyzing data, building predictive models, and communicating insights effectively.
+I am a Master of Data Analytics student passionate about using data to solve business problems and generate meaningful insights.
+
+My interests include data analytics, machine learning, business intelligence, data visualization, and predictive modeling. Through academic and hands-on projects, I have developed experience with data cleaning, exploratory data analysis, machine learning, and communicating insights through visualizations.
 
 ---
 
 ## Technical Skills
 
-**Languages**
+### Programming
 - Python
-- SQL
 - R
 
-**Data Analytics**
+### Data Analytics & Machine Learning
 - Pandas
 - NumPy
 - Scikit-learn
 - Exploratory Data Analysis (EDA)
 - Data Cleaning & Preprocessing
+- Machine Learning
+- Feature Engineering
+- K-Means Clustering
+- Artificial Neural Networks
 
-**Visualization**
-- Power BI
-- Excel
+### Data Visualization
 - Matplotlib
+- Excel
 
-**Tools**
+### Tools & Platforms
 - Git
 - GitHub
-- Google Colab
 - Jupyter Notebook
+- Google Colab
 
 ---
 
 ## Featured Projects
 
-🧠 **AI-Assisted Screening of Parkinson's Disease**
-> Machine learning model to support Parkinson's disease screening using wearable sensor and clinical data.
+### 📊 Supply Chain Analytics
 
-📊 **Amazon Customer Review Analytics**
-> Natural language processing and sentiment analysis to generate business insights from customer reviews.
+> Python-based analysis of sales, profitability, regional performance, customer segments, product categories, shipping modes, and delivery performance using exploratory data analysis and visualization.
 
-❤️ **Health Risk Classification**
-> Artificial Neural Network and Logistic Regression models for predicting patient health risk categories.
+### 👥 Customer Segmentation Analysis
 
-🗄️ **SQL Portfolio**
-> SQL queries solving real-world business problems using joins, CTEs, window functions, and aggregations.
+> Customer segmentation project using RFM analysis and K-Means clustering to identify meaningful customer groups based on purchasing behaviour.
 
-📈 **Power BI Dashboards**
-> Interactive dashboards for business reporting and data visualization.
+### 🛒 Amazon Customer Review Analytics
+
+> Data analytics and natural language processing project analyzing customer reviews to identify sentiment, customer behaviour, and business insights.
+
+### ❤️ Patient Health Risk Prediction Using ANN
+
+> Machine learning project comparing Artificial Neural Networks and Logistic Regression for classifying patient health risk categories.
 
 ---
 
@@ -70,7 +75,7 @@ I am passionate about transforming data into meaningful insights that support bu
 
 ## Career Goal
 
-My goal is to begin my career as a **Data Analyst**, helping organizations make data-driven decisions through analytics, visualization, and predictive modeling.
+My goal is to begin my career as a **Data Analyst**, using data analysis, visualization, and machine learning to help organizations make informed, data-driven decisions.
 
 ---
 
